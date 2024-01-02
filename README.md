@@ -1,6 +1,6 @@
-### Hey, guys! ![cat icon](https://github.com/ivaZaiets/ivaZaiets/assets/142230575/ffcd6bce-5c0e-4c95-b0b8-731203c2336f)
+### Hey, guys!
 
-#### I'm Ivanna, front end developer ![cat icon](https://github.com/ivaZaiets/ivaZaiets/assets/142230575/0f06735c-9a2c-46c9-af03-6786b1a69496)
+#### I'm Ivanna, front end developer
 
 
 Over the past year, I have mastered technologies such as:  
@@ -19,7 +19,7 @@ It is important for me **to develop professionally**
 and currently I see great potential in combining my skills.
 
 
-### Contact me ![cat icon](https://github.com/ivaZaiets/ivaZaiets/assets/142230575/4e860a6a-a404-415e-85bc-13e35ac98f04)
+### Contact me
 
 
 [![my linkedin](https://github.com/ivaZaiets/ivaZaiets/assets/142230575/a098b586-62e5-4b97-a011-cbc40e176c2c)](https://www.linkedin.com/in/ivanna-zaiets-6122532a0/)
