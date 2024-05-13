@@ -2,22 +2,16 @@
 
 #### I'm Ivanna, front end developer
 
+Currently, I'm actively seeking employment opportunities. 
 
-Over the past year, I have mastered technologies such as:  
-**React**, **Redux**, **TypeScript**, **JavaScript**, **CSS**, **HTML**, **Node.js**, **SQL**, etc. 
+A bit about my professional background: I have experience working as a React developer,  
+where I spearheaded a project from inception. I am proficient in technologies such as  
+Next.js, React, Redux, TypeScript, JavaScript, and SCSS. I've collaborated   
+with backend developers and designers on projects, and thanks to tools like Jira,   
+I've honed my skills in project organization and management. Additionally,  
+I'm actively expanding my skill set by delving into the realm of Three.js technology.   
 
-I dedicate over **10 hours** a day to coding  
-and really passionate about development.
-
-Before entering the field of development, I studied at the **Chinese Language Faculty**  
-and thanks to this I developed **good soft skills**  
-and also I find it easy **to establish new connections** with other people.  
-
-My skills also include knowledge of **English/Chinese** at the **intermediate** level
-
-It is important for me **to develop professionally**   
-and currently I see great potential in combining my skills.
-
+Let's collaborate!
 
 ### Contact me
 
