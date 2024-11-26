@@ -1,4 +1,4 @@
-### Hey, guys! 😙
+### Hey, guys! 🙂
 
 #### I’m Ivanna, a React specialist crafting modern, user-friendly web solutions.
 
