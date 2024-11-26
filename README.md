@@ -6,7 +6,7 @@ During my professional journey, I have had the opportunity to collaborate with
 international clients, designers, and backend developers, contributing to various projects, 
 including leading one of them from concept to MVP.
 
-Focused on continuous improvement, with a keen eye for detail and strong self-discipline, 
+Focused on continuous improvement, with a keen eye for detail and strong self-discipline,   
 I bring these qualities to every project I take on.
 
 ### Contact me
