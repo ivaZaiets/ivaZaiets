@@ -1,20 +1,15 @@
-### Hey, guys!
+### Hey, guys! 😙
 
-#### I'm Ivanna, front end developer
+#### I’m Ivanna, a React specialist crafting modern, user-friendly web solutions.
 
-Currently, I'm actively seeking employment opportunities. 
+During my professional journey, I have had the opportunity to collaborate with 
+international clients, designers, and backend developers, contributing to various projects, 
+including leading one of them from concept to MVP.
 
-A bit about my professional background: I have experience working as a React developer,  
-where I spearheaded a project from inception. I am proficient in technologies such as  
-Next.js, React, Redux, TypeScript, JavaScript, and SCSS. I've collaborated   
-with backend developers and designers on projects, and thanks to tools like Jira,   
-I've honed my skills in project organization and management. Additionally,  
-I'm actively expanding my skill set by delving into the realm of Three.js technology.   
-
-Let's collaborate!
+Focused on continuous improvement, with a keen eye for detail and strong self-discipline, 
+I bring these qualities to every project I take on.
 
 ### Contact me
-
 
 [![my linkedin](https://github.com/ivaZaiets/ivaZaiets/assets/142230575/a098b586-62e5-4b97-a011-cbc40e176c2c)](https://www.linkedin.com/in/ivanna-zaiets-6122532a0/)
 [![my gmail](https://github.com/ivaZaiets/ivaZaiets/assets/142230575/30eaca98-36ba-4861-95f9-e75607195503)](mailto:iva.zaiets.dev@gmail.com)
